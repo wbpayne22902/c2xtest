@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
 	int a = 0xFF'FF'FF'FF;
@@ -6,6 +7,6 @@ int main() {
 #if defined(__APPLE__) || defined(__LINUX__)
 	printf("UNIX!\n");
 #endif
-	return 0;
+	return EXIT_SUCCESS;
 }
 
