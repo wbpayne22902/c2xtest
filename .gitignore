@@ -4,4 +4,5 @@ c2xtest
 *.o
 *.pdb
 *.ilk
+a.out
 
