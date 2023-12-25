@@ -1,4 +1,5 @@
-// c2xtest Version 0.3
+// c2xtest Version 0.4
+// Copyright 2022-2023 Wilhelm Payne
 #include <stdio.h>
 #include <stdlib.h>
 
